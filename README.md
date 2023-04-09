@@ -1,6 +1,8 @@
 # FileNameShortener-AppleScript
 Intelligently shortens filenames exceeding 143 characters in length (Synology exFAT eCryptfs safe)
+
 Written by: Stephen Perry, with coding assistance from ChatGPT3.5 and ChatGPT4
+
 
 This Apple Script helps to rename files and folders with long names by abbreviating specific words and shortening the names to a desired length. The script recursively processes a given folder and its subfolders, replacing words based on a predefined dictionary of word abbreviations. It also maintains a list of renamed items and generates a text file containing the original and modified names.
 
